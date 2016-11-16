@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_a3783f687250311629ac2d75347e0b9a0cd93bff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.17.0_fa219a2822c7f52053f827380e1cf81e00724c83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="00519f394c053fa250614a1e14ab06467d7fb09f">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eb684e72629330d4b82a8dd1fefe31a924759487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_9029da5b5b8cfcf5366f47dbc05e5f07437070ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_0e3fb09c93e677f7060e810d2fb47ec9d3721c6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f8927d559e16a43576448725dd0d02da354ae122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e541338225aad56b7179cc0565c793db8e30ba90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/a0990e2e812ac6639b6ce955c91b13228500476e/jackson-annotations-2.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a0990e2e812ac6639b6ce955c91b13228500476e">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.6.0_694cdf58dd9187c307bdd20e9417937c0938241d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_c392007cce772c728dda4756cdb7a66d68743df1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_3c6f326819855f7d2fb1c31f67b27c91f4c2a8e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/2.0.0.M3/204c594c2a47073b30d3cb14ca69ba1066c4e44c/spring-android-rest-template-2.0.0.M3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="204c594c2a47073b30d3cb14ca69ba1066c4e44c">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/spring-android-rest-template-2.0.0.M3_3f36a7d3d2b53f5e7c72cfca558b470379eb675b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3cd61699aee27a4c3a9ab118349ce082af80073c">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5e7dbf43602464d345a2ff376d053533519b65fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_3f8c7af23785e7420d9e8a862a7776d20c317860/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_2da871feaeb7ab716a0f361b7a37d73743515e83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.mikepenz.iconics/library/0.9.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4054f18e4e7d1c148fa71ded4b17348428273e21">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz.iconics-library-0.9.1_86fac8fa70427b159c21c5d851a1c30eae3093ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_dc806c55678a7f04493382af0d99e63fd4a1b10c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_f0d592f17316b057dc9307b6f0a361e2ddbf05db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.3/5c4fcae53dd82e2c549b8322d78c6ff47c94c8a8/jackson-databind-2.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5c4fcae53dd82e2c549b8322d78c6ff47c94c8a8">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.6.3_e68fc1c95d15a7d2310962ab557a2299c8c2489d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_173b1af3b1d16374b7072664f393860ed318aac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_fff74252e64dfc72365f533e64a5b366ab97a924/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/me.sudar/zxing-orient/2.1.1/jars/libs/android-core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="127022e6706754f628312a7a77118080e656a086">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-core-3.1.0_a4e16679132d58b04717ffafff70bd500d52e4d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_dfa89b9ab8db8df985d75c090f365196e2956918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/org.androidannotations/rest-spring-api/4.0.0/2fe6e547505201aa34995e87d2231bcd32b83b37/rest-spring-api-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2fe6e547505201aa34995e87d2231bcd32b83b37">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/rest-spring-api-4.0.0_ecf4cfb8681d87117745f81057bb594a0170699f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_5c03ab7d1aa8d39d8028a3979559ef0bd70fb609/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.3/142ce64dcd709a4b5f6e7d71305a31d3893d077/jackson-core-2.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0142ce64dcd709a4b5f6e7d71305a31d3893d077">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.6.3_9289fcf7b2950f83be330cb8559e34f5235aef1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_df4cd790400bca320cd78693868981f7ed384155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_e00fc4c0b82750326e8722d0fb8ee55715847990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_5fa23115212bedfc2452235016da266c1431859e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-android-4.48_5cb2fbdcf55a74a02d1663f47515eedd395769c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_c19984faa4f582b80d6428d68cc63a6d668a6632/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-core-4.48_2da5144f80872bf1d5932fb4b6013611b920562c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/4.0.0/8ef59050fdc527130b8f1f5689164a1ec0ebc13c/androidannotations-api-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ef59050fdc527130b8f1f5689164a1ec0ebc13c">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidannotations-api-4.0.0_46bcd1128f83a1222857d60375a30d65b279fe27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_9a2b13eaee3e487ea62dc6d573d89b112e817b6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_02f6ddaa1c7b463b5493ac952bf3169292583e76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_caaa83330c383a8759721f88e5ef6b7bd9937b4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/2.0.0.M3/c7e2c60943248bbce5de6cf552592281ed2296b/spring-android-core-2.0.0.M3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0c7e2c60943248bbce5de6cf552592281ed2296b">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/spring-android-core-2.0.0.M3_ab8c60c1d01c0a93276369b0904f9a249036c32f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_7b15a5b6470f959869896d69d42781eb17b5f83c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_6456ed05b303630726cec61a2fefe22e37f7613b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/me.sudar/zxing-orient/2.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="70bcfb0b03448cd1bc52eb47df703909ca8d05c0">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.sudar-zxing-orient-2.1.1_8da5122f9ba8c4106137e62cfe1d7c9273be99a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_13e1d57999ee8823033168f2d57ac555b3ae9bcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.mikepenz.materialdrawer/library/2.8.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6320445a7438321cdf32f75545581821f5759cf3">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz.materialdrawer-library-2.8.2_1a6a7ea28a563cda352b9991d7bac0dd408b56cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/vania/Área de Trabalho/bluelab/retail 4.0/app/loja-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_77f2f10b66580664b135c39317ee56fa175ecffd/classes.dex" />
+    </item>
+
+</items>
