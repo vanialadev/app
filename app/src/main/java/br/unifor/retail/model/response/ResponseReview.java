@@ -3,6 +3,7 @@ package br.unifor.retail.model.response;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.List;
 
 import br.unifor.retail.model.Review;
@@ -13,11 +14,15 @@ import br.unifor.retail.model.Review;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ResponseReview implements Serializable{
 
-     List<Review> reviews;
+     List<Review> reviews = new ArrayList<>();
 
     public List<Review> getReviews() {
         return reviews;
     }
 
+    @Override
+    public String toString() {
+        return getReviews().toString();
+    }
 }
 

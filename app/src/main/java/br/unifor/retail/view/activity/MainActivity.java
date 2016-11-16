@@ -11,6 +11,7 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ListView;
 
 import com.facebook.AccessToken;
 
@@ -22,6 +23,7 @@ import org.androidannotations.annotations.UiThread;
 import java.util.ArrayList;
 
 import br.unifor.retail.R;
+import br.unifor.retail.adapter.AdapterListViewMain;
 import br.unifor.retail.navegation.drawer.NavegationDrawer;
 import br.unifor.retail.singleton.SingletonMain;
 import br.unifor.retail.view.activity.common.BaseActivity;
@@ -47,7 +49,7 @@ public class MainActivity extends BaseActivity {
 
         handler = new Handler();
         if (AccessToken.getCurrentAccessToken() == null) {
-            goLoginScreen();
+   //         goLoginScreen();
         } else {
             Log.d("Permissões", AccessToken.getCurrentAccessToken().toString());
             Log.d("Token", AccessToken.getCurrentAccessToken().getToken());
@@ -61,7 +63,24 @@ public class MainActivity extends BaseActivity {
             });
         }
 
+        toolbar = (Toolbar) findViewById(R.id.toolbarMain);
+        toolbar.setTitle("Retail");
+        toolbar.setBackground(getResources().getDrawable(R.drawable.canto_superior_da_tela));
+        setSupportActionBar(toolbar);
 
+        ArrayList<SingletonMain> singleton_mains = todos_Os_Produtos();
+
+        AdapterListViewMain adapter = new AdapterListViewMain(singleton_mains, getApplicationContext());
+
+        ListView listView;
+        listView = (ListView) findViewById(R.id.listVire_Main);
+
+        listView.setAdapter(adapter);
+
+
+        navegationDrawer = new NavegationDrawer(toolbar, MainActivity.this);
+        navegationDrawer.getProfile();
+        navegationDrawer.createNavigationDrawer();
 
     }
 

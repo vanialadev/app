@@ -129,12 +129,9 @@ public class ProductActivity extends BaseActivity {
             responseProduct = productService.searchProduct(idQrCode);
             responseReview = reviewService.searchProductReview(idQrCode);
 
-            Log.i("review", responseReview.toString());
+            Log.i("dados do review", responseReview.contains(KEY_DESCR)+"");
 
-            for (ResponseReview review : responseReview){
-                Log.i("revi",  review.getReviews().get(0).getId().toString());
 
-            }
 
             //String review_descri = responseReview.get
 
